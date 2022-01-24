@@ -1,3 +1,18 @@
 # A or B Day
-This is a program that will tell the user if it is either an "A" or "B" day according to the Baltimore County Public Schools schedule.
 
+Programming Elements
+--------------------------------
+- If statements
+- Functions
+- For loops
+- Array sorting
+
+User Flow
+--------------------------------
+User can use the following commands:
+  'help' - List of all commands
+  'tomorrow' - Gives date and A or B day response for the next day
+  'today' - Gives current day A or B day response
+  'day m/d/y' - Gives A or B day value for requested day
+  'restart' - Goes back to the starting screen
+  'done' - Exits the script
